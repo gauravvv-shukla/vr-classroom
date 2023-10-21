@@ -10,7 +10,7 @@ Welcome to our modern and minimalist VR Classroom website concept, showcasing th
 
 ## Demo
 
-Explore our modern VR Classroom website concept live by visiting the [Demo](https://vr-classroom.vercel.app/) page.
+Explore our modern VR Classroom website concept live by visiting the [Demo](https://vr.gauravxshukla.me/) page.
 
 ## Features
 
